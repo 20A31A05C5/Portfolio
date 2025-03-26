@@ -228,6 +228,7 @@ li{
     font-size: 3rem;
     font-weight: 400;
     color: white;
+    font-family:sans-serif;
     text-align: center;
 }
 .about-details > *{
